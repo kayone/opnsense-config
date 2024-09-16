@@ -411,6 +411,14 @@ v//i6xJ76GaT3wPaC0rbkZ0/T4YjHmyR8ksl2iTdDSjS+yqcYDK6XG1GLQ==&#xD;
         <to>192.168.0.245</to>
       </range>
       <staticmap>
+        <mac>00:11:32:77:78:ca</mac>
+        <hostname>syno</hostname>
+        <descr>Synology NAS</descr>
+        <winsserver/>
+        <dnsserver/>
+        <ntpserver/>
+      </staticmap>
+      <staticmap>
         <mac>d4:6a:6a:7c:3c:4e</mac>
         <ipaddr>192.168.0.31</ipaddr>
         <hostname>DCP-L2550DW</hostname>
@@ -532,7 +540,7 @@ v//i6xJ76GaT3wPaC0rbkZ0/T4YjHmyR8ksl2iTdDSjS+yqcYDK6XG1GLQ==&#xD;
   </widgets>
   <revision>
     <username>root@192.168.0.10</username>
-    <time>1726467373.4726</time>
+    <time>1726467402.9078</time>
     <description>/services_dhcp_edit.php made changes</description>
   </revision>
   <OPNsense>
