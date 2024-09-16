@@ -471,7 +471,7 @@ v//i6xJ76GaT3wPaC0rbkZ0/T4YjHmyR8ksl2iTdDSjS+yqcYDK6XG1GLQ==&#xD;
       <interface>wan</interface>
       <category/>
       <ipprotocol>inet</ipprotocol>
-      <descr/>
+      <descr>Plex</descr>
       <tag/>
       <tagged/>
       <poolopts/>
@@ -488,7 +488,7 @@ v//i6xJ76GaT3wPaC0rbkZ0/T4YjHmyR8ksl2iTdDSjS+yqcYDK6XG1GLQ==&#xD;
       <natreflection>purenat</natreflection>
       <updated>
         <username>root@192.168.0.10</username>
-        <time>1726467944.7641</time>
+        <time>1726467969.3054</time>
         <description>/firewall_nat_edit.php made changes</description>
       </updated>
       <created>
@@ -590,7 +590,7 @@ v//i6xJ76GaT3wPaC0rbkZ0/T4YjHmyR8ksl2iTdDSjS+yqcYDK6XG1GLQ==&#xD;
   </widgets>
   <revision>
     <username>root@192.168.0.10</username>
-    <time>1726467944.8299</time>
+    <time>1726467969.3708</time>
     <description>/firewall_nat_edit.php made changes</description>
   </revision>
   <OPNsense>
