@@ -422,7 +422,7 @@ v//i6xJ76GaT3wPaC0rbkZ0/T4YjHmyR8ksl2iTdDSjS+yqcYDK6XG1GLQ==&#xD;
       <staticmap>
         <mac>1c:69:7a:64:b0:4d</mac>
         <ipaddr>192.168.0.52</ipaddr>
-        <hostname>nuc</hostname>
+        <hostname>NUC</hostname>
         <descr>NUC</descr>
         <winsserver/>
         <dnsserver/>
@@ -532,7 +532,7 @@ v//i6xJ76GaT3wPaC0rbkZ0/T4YjHmyR8ksl2iTdDSjS+yqcYDK6XG1GLQ==&#xD;
   </widgets>
   <revision>
     <username>root@192.168.0.10</username>
-    <time>1726467360.7604</time>
+    <time>1726467373.4726</time>
     <description>/services_dhcp_edit.php made changes</description>
   </revision>
   <OPNsense>
