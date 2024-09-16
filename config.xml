@@ -413,8 +413,8 @@ v//i6xJ76GaT3wPaC0rbkZ0/T4YjHmyR8ksl2iTdDSjS+yqcYDK6XG1GLQ==&#xD;
       <staticmap>
         <mac>d4:6a:6a:7c:3c:4e</mac>
         <ipaddr>192.168.0.31</ipaddr>
-        <hostname>T14</hostname>
-        <descr>Brother Printer</descr>
+        <hostname>DCP-L2550DW</hostname>
+        <descr>Brother DCP-L2550DW</descr>
         <winsserver/>
         <dnsserver/>
         <ntpserver/>
@@ -523,7 +523,7 @@ v//i6xJ76GaT3wPaC0rbkZ0/T4YjHmyR8ksl2iTdDSjS+yqcYDK6XG1GLQ==&#xD;
   </widgets>
   <revision>
     <username>root@192.168.0.10</username>
-    <time>1726467218.9866</time>
+    <time>1726467331.6172</time>
     <description>/services_dhcp_edit.php made changes</description>
   </revision>
   <OPNsense>
