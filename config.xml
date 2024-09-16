@@ -410,6 +410,15 @@ v//i6xJ76GaT3wPaC0rbkZ0/T4YjHmyR8ksl2iTdDSjS+yqcYDK6XG1GLQ==&#xD;
         <from>192.168.0.10</from>
         <to>192.168.0.245</to>
       </range>
+      <staticmap>
+        <mac>d4:6a:6a:7c:3c:4e</mac>
+        <ipaddr>192.168.0.31</ipaddr>
+        <hostname>T14</hostname>
+        <descr>Brother Printer</descr>
+        <winsserver/>
+        <dnsserver/>
+        <ntpserver/>
+      </staticmap>
     </lan>
   </dhcpd>
   <snmpd>
@@ -514,8 +523,8 @@ v//i6xJ76GaT3wPaC0rbkZ0/T4YjHmyR8ksl2iTdDSjS+yqcYDK6XG1GLQ==&#xD;
   </widgets>
   <revision>
     <username>root@192.168.0.10</username>
-    <description>/diag_backup.php made changes</description>
-    <time>1726466911.6828</time>
+    <time>1726467218.9866</time>
+    <description>/services_dhcp_edit.php made changes</description>
   </revision>
   <OPNsense>
     <OpenVPN version="1.0.0">
